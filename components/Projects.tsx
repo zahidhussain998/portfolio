@@ -43,7 +43,7 @@ const Projects = (props: Props) => {
               </h4>
 
               
-              <p className="text-lg text-center md:text-left">
+              <p className="text-lg text-center md:text-left py-10">
                Netflix 2.0 app that has a log in and log out Authentication with Google
                it has a beautiful home screen with the all movies  looking just like Netflix
                .there is also a subscription page that has a payment method with stripe
