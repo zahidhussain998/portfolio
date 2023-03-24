@@ -37,7 +37,7 @@ const About = (props: Props) => {
 
 
          <p className='text-XS text-gray-500'>
-            I am a self-taught Frontend Developer and Backend Developer. I am passionate about learning new technologies and building cool stuff. I am currently working on my skills and learning new technologies. I am also a competitive programmer and I love to solve problems. I am also a big fan of anime and I love to watch anime. I am also a big fan of football and I love to play football.
+            I am a self-taught Frontend Developer and Backend Developer. I am passionate about learning new technologies and building cool stuff. I am currently working on my skills and learning new technologies. I am also a competitive programmer and I love to solve problems. if i an not coding i am either playing football or wathcing anime.
             </p>
        </div>
        
